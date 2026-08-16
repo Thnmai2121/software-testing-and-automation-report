@@ -2,7 +2,7 @@
 
 > **Academic Project** - Faculty of Information Technology, Ho Chi Minh City Open University  
 > **Course:** Software Testing (Kiểm thử phần mềm)  
-> **Documentation:** [📄 Click Here to View Full Report (PDF)](./Software_Testing_Report_Automation_API.pdf)
+> **Documentation:** [📄 Click Here to View Full Report (PDF)](./51_Bao_55_Mai_N2_DoAnKTPM.pdf)
 
 ---
 
